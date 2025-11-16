@@ -1,0 +1,3 @@
+C:/Users/powar/Desktop/project_final_parquet/build/CMakeFiles/parquet_encryption.dir
+C:/Users/powar/Desktop/project_final_parquet/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/powar/Desktop/project_final_parquet/build/CMakeFiles/ZERO_CHECK.dir

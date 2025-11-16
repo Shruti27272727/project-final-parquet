@@ -1,0 +1,10 @@
+^C:\USERS\POWAR\DESKTOP\PROJECT_FINAL_PARQUET\BUILD\CMAKEFILES\1860C90986FDD6BFDDF347F4B5DD0B3C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/powar/Desktop/project_final_parquet -BC:/Users/powar/Desktop/project_final_parquet/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/powar/Desktop/project_final_parquet/build/parquet_encryption.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
