@@ -7,6 +7,7 @@ C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp
 C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXInformation.cmake
 C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake
 C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCompilerIdDetection.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDependentOption.cmake
 C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake
 C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake
 C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompiler.cmake
@@ -116,3 +117,9 @@ C:/Users/powar/Desktop/project_final_parquet/build/CMakeFiles/4.1.2/CMakeCCompil
 C:/Users/powar/Desktop/project_final_parquet/build/CMakeFiles/4.1.2/CMakeCXXCompiler.cmake
 C:/Users/powar/Desktop/project_final_parquet/build/CMakeFiles/4.1.2/CMakeRCCompiler.cmake
 C:/Users/powar/Desktop/project_final_parquet/build/CMakeFiles/4.1.2/CMakeSystem.cmake
+C:/Users/powar/Desktop/vcpkg/installed/x64-windows/share/mbedtls/MbedTLSConfig.cmake
+C:/Users/powar/Desktop/vcpkg/installed/x64-windows/share/mbedtls/MbedTLSConfigVersion.cmake
+C:/Users/powar/Desktop/vcpkg/installed/x64-windows/share/mbedtls/MbedTLSTargets-debug.cmake
+C:/Users/powar/Desktop/vcpkg/installed/x64-windows/share/mbedtls/MbedTLSTargets-release.cmake
+C:/Users/powar/Desktop/vcpkg/installed/x64-windows/share/mbedtls/MbedTLSTargets.cmake
+C:/Users/powar/Desktop/vcpkg/scripts/buildsystems/vcpkg.cmake
